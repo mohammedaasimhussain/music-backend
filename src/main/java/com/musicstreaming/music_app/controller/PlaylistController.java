@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.*;
 
 @RestController
 @RequestMapping("/api/playlists")
-@CrossOrigin
+@CrossOrigin(origins = "*")
 public class PlaylistController {
 
     private final SongRepository songRepository;

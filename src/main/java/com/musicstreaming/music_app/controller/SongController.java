@@ -30,12 +30,13 @@ import java.nio.file.Paths;
 
 @RestController
 @RequestMapping("/api/songs")
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = "*")
 public class SongController {
 
     private final SongRepository songRepository;
 
-    private static final String MUSIC_DIR = "C:/music-files/";
+    private static final String MUSIC_DIR = "/app/music-files/";
+
 
     public SongController(SongRepository songRepository) {
         this.songRepository = songRepository;

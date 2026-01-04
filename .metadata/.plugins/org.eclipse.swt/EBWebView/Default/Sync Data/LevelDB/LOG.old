@@ -1,2 +1,3 @@
-2025/12/27-12:28:00.728 5fc4 Creating DB C:\Users\moham\Downloads\music-app\music-app\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB since it was missing.
-2025/12/27-12:28:00.745 5fc4 Reusing MANIFEST C:\Users\moham\Downloads\music-app\music-app\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB/MANIFEST-000001
+2025/12/27-12:28:20.710 3d8c Reusing MANIFEST C:\Users\moham\Downloads\music-app\music-app\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB/MANIFEST-000001
+2025/12/27-12:28:20.713 3d8c Recovering log #3
+2025/12/27-12:28:20.713 3d8c Reusing old log C:\Users\moham\Downloads\music-app\music-app\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB/000003.log 

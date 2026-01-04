@@ -9,7 +9,7 @@ import com.musicstreaming.music_app.service.UserService;
 
 @RestController
 @RequestMapping("/api/auth")
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = "*")
 public class AuthController {
 
     private final UserService userService;
